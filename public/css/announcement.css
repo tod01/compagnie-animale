@@ -1,0 +1,61 @@
+.card-search > div:first-of-type {
+    margin: 10px 10px 5px;
+}
+
+.card-search > div:last-of-type {
+    margin-bottom: 10px;
+}
+
+.card-search > div {
+    margin: 5px 10px 5px;
+}
+
+.card-search > div div:first-of-type {
+    margin-left: 0px;
+}
+
+.card-search > div div:last-of-type {
+    margin-right: 0px;
+}
+
+.card-search > div div {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.form-control {
+    margin-top: 0px;
+}
+
+#dropdownMenuPets {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#div-form-control-race {
+    display: none;
+}
+
+.card-search > .btn-group-toggle {
+    align-self: flex-start;
+}
+
+.alert, .alert > button {
+    margin: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.alert {
+    padding-left: 5px !important;
+    padding-right: 25px !important;
+    margin-right: 10px !important;
+}
+
+.alert > button {
+    padding-right: 5px !important;
+    padding-left: 0px !important;
+}
+
+

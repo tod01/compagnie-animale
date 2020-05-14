@@ -1,0 +1,3 @@
+Seeding: AdsTableSeeder
+Seeded:  AdsTableSeeder (15.55 seconds)
+Database seeding completed successfully.
